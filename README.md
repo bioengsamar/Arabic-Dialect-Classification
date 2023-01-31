@@ -2,7 +2,7 @@
 ## Used Datasets:
  - [NADI 2020 (The First Nuanced Arabic Dialect Identification Shared Task)](https://github.com/UBC-NLP/nadi)
  - [QCRI Arabic Dialect Identification (QADI)](https://github.com/qcri/QADI)
- - ## Download the QADI processed dataset [link](https://drive.google.com/file/d/1-4EVHyvmaJLao6WLqYYifVIprhQgihi3/view?usp=share_link)
+ - Download the QADI processed dataset [link](https://drive.google.com/file/d/1-4EVHyvmaJLao6WLqYYifVIprhQgihi3/view?usp=share_link)
  
 ## Results 
  - Results and findings of the Solving the First Nuanced Arabic Dialect Identification Shared Task (NADI), Subtask 1 (country level dialect identification):
