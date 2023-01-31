@@ -5,7 +5,10 @@
  - Download the QADI processed dataset [link](https://drive.google.com/file/d/1-4EVHyvmaJLao6WLqYYifVIprhQgihi3/view?usp=share_link)
 
 ## How to Reproduce/Run the code:
+ - [Download_QADI_dataset Notebook](https://github.com/bioengsamar/Arabic-Dialect-Classification/blob/main/Download_QADI_dataset.ipynb) indicates how to download the QADI dataset using [twarc library](https://github.com/alblaine/twarc-tutorial/blob/master/README.md) 
+ - [Data_Preprocessing Notebook](https://github.com/bioengsamar/Arabic-Dialect-Classification/blob/main/Data_Preprocessing.ipynb) contains the Arabic tweet Preprocessing steps
  - The [QADI-Experiments](https://github.com/bioengsamar/Arabic-Dialect-Classification/tree/main/QADI-Experiments) & [NADI-Experiments](https://github.com/bioengsamar/Arabic-Dialect-Classification/tree/main/NADI-Experiments) folders contain the base model (AraBERT), bert-base-arabertv02-twitter, MARBERTv2 and finally Ensemble approach training and testing 
+ 
 
 
 ## Results 
