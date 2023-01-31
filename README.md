@@ -33,8 +33,9 @@ MARBERTv2 | 56.31 %| 58.83 %| 6 | 80
 Ensemble Model | 58.80 % |  61.11 % | - | -
 
  - Results and findings on the second dataset (QADI) when changing the max length during AraBERT training
+
 F1 |ACC | # Samples | Epochs | SEQ-LEN
-------|-----|------|----| 
+------|-----|------|----|----| 
 47.5 %|52.3 %|100k|6 | 113
 52.44 %| 55.04 %| All Data| 6 | 113
 54.22 %| 57 %| All Data| 10|32
