@@ -4,7 +4,10 @@
  - [QCRI Arabic Dialect Identification (QADI)](https://github.com/qcri/QADI)
  - Download the QADI processed dataset [link](https://drive.google.com/file/d/1-4EVHyvmaJLao6WLqYYifVIprhQgihi3/view?usp=share_link)
 
-The [QADI-Experiments](https://github.com/bioengsamar/Arabic-Dialect-Classification/tree/main/QADI-Experiments) & [QADI-Experiments](https://github.com/bioengsamar/Arabic-Dialect-Classification/tree/main/NADI-Experiments) folders contain the base model (AraBERT), bert-base-arabertv02-twitter, MARBERTv2 and finally Ensemble approach training and testing 
+## How to Reproduce/Run the code:
+ - The [QADI-Experiments](https://github.com/bioengsamar/Arabic-Dialect-Classification/tree/main/QADI-Experiments) & [NADI-Experiments](https://github.com/bioengsamar/Arabic-Dialect-Classification/tree/main/NADI-Experiments) folders contain the base model (AraBERT), bert-base-arabertv02-twitter, MARBERTv2 and finally Ensemble approach training and testing 
+
+
 ## Results 
  - Results and findings of the Solving the First Nuanced Arabic Dialect Identification Shared Task (NADI), Subtask 1 (country level dialect identification):
  
