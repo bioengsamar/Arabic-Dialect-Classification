@@ -1,6 +1,6 @@
 # Arabic Dialect Identification
  - Our proposed System
- ![](pipeline.png)
+ ![](pipe.png)
 ## Used Datasets:
  - [NADI 2020 (The First Nuanced Arabic Dialect Identification Shared Task)](https://github.com/UBC-NLP/nadi)
  - [QCRI Arabic Dialect Identification (QADI)](https://github.com/qcri/QADI)
