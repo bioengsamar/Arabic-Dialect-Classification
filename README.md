@@ -32,7 +32,7 @@ Model | F1 |ACC | Epochs | SEQ-LEN
 Base Model |46.90 %|50.28 %| 6 | 80
 bert-base-arabertv02-twitter | 54.93 %| 57.26 % | 6 | 80
 MARBERTv2 | 56.31 %| 58.83 %| 6 | 80
-**Proposed Ensemble Model** | **58.80 % **|  **61.11 %**| **6**| **80**
+**Proposed Ensemble Model** | **58.80 %**|  **61.11 %**| **6**| **80**
 
  - Results and findings on the second dataset (QADI) when changing the max length during AraBERT training
 
